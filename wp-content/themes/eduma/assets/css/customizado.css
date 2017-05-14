@@ -72,3 +72,13 @@ footer ul{
   margin-top: 1em;
 }
 /*fin de los estilos en el footer*/
+
+.top_site_main .page-title-wrapper h1{
+	padding-top: 200px!important;
+}
+.top_site_main .page-title-wrapper {
+	padding-top: 180px!important;
+}
+.thim-join-the-elite-group:before{
+	background-color: none!important;
+}

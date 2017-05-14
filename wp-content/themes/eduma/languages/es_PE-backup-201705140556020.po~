@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Eduma\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-03-24 04:56+0000\n"
-"PO-Revision-Date: 2017-05-11 05:07+0000\n"
+"PO-Revision-Date: 2017-05-14 05:55+0000\n"
 "Last-Translator: omarfon <magentadin@gmail.com>\n"
 "Language-Team: Spanish (Peru)\n"
 "Language: es-PE\n"
@@ -44,11 +44,11 @@ msgstr ""
 
 #: comments.php:36 comments.php:55
 msgid "&larr; Older Comments"
-msgstr ""
+msgstr "&larr; Comentarios Antiguos"
 
 #: comments.php:37 comments.php:56
 msgid "Newer Comments &rarr;"
-msgstr ""
+msgstr "Nuevos Comentarios &rarr;"
 
 #: comments.php:45
 #, php-format
@@ -60,7 +60,7 @@ msgstr[1] ""
 
 #: comments.php:64
 msgid "Comments are closed."
-msgstr ""
+msgstr "Comentarios cerrados"
 
 #: comments.php:68
 msgid "Leave A Reply"
@@ -105,7 +105,7 @@ msgstr ""
 #: learnpress-v1/profile/tabs/courses/loop.php:24
 #: learnpress-v2/profile/tabs/courses/index.php:25
 msgid "Read More"
-msgstr ""
+msgstr "Leer Más"
 
 #: content-none.php:13
 msgid "Nothing Found"
@@ -134,23 +134,19 @@ msgstr ""
 #: portfolio/type/right-floating-sidebar.php:72
 #: portfolio/type/sidebar-slider.php:62 portfolio/type/vertical-stacked.php:7
 msgid "Pages:"
-msgstr ""
+msgstr "Paginas:"
 
 #: content-single.php:38
 msgid "Tag:"
-msgstr ""
+msgstr "Etiqueta:"
 
 #: content-single.php:59
 msgid "Previous post"
-msgstr ""
-
-#: content-single.php:74
-msgid "Next post"
-msgstr "siguiente entrada"
+msgstr "post anterior"
 
 #: functions.php:55
 msgid "Primary Menu"
-msgstr ""
+msgstr "Menú Primario"
 
 #: functions.php:98 vc-shortcodes/inc-map/list-post.php:141
 #: inc/admin/customizer-sections/display-sidebar.php:4
@@ -415,7 +411,7 @@ msgstr ""
 #: inc/learnpress-functions.php:454 inc/learnpress-v1-functions.php:283
 #: inc/learnpress-v2-functions.php:411
 msgid "Review"
-msgstr ""
+msgstr "Puntaje"
 
 #: inc/learnpress-functions.php:458 inc/learnpress-v1-functions.php:287
 #: inc/learnpress-v2-functions.php:415
@@ -442,7 +438,7 @@ msgstr ""
 #: learnpress-v2/single-course/content-landing.php:110
 #: learnpress-v2/single-course/content-learning.php:48
 msgid "Reviews"
-msgstr ""
+msgstr "Comentarios"
 
 #: inc/learnpress-functions.php:479 inc/learnpress-v1-functions.php:362
 #: inc/learnpress-v2-functions.php:772
@@ -475,26 +471,6 @@ msgstr ""
 msgid "Home"
 msgstr ""
 
-#: inc/learnpress-functions.php:560 inc/learnpress-functions.php:560
-#: inc/learnpress-functions.php:573 inc/learnpress-functions.php:573
-#: inc/learnpress-functions.php:579 inc/learnpress-functions.php:579
-#: inc/learnpress-functions.php:584 inc/learnpress-functions.php:584
-#: inc/learnpress-v1-functions.php:1211 inc/learnpress-v1-functions.php:1211
-#: inc/learnpress-v1-functions.php:1224 inc/learnpress-v1-functions.php:1224
-#: inc/learnpress-v1-functions.php:1230 inc/learnpress-v1-functions.php:1230
-#: inc/learnpress-v1-functions.php:1235 inc/learnpress-v1-functions.php:1235
-#: inc/learnpress-v2-functions.php:200 inc/learnpress-v2-functions.php:200
-#: inc/learnpress-v2-functions.php:213 inc/learnpress-v2-functions.php:213
-#: inc/learnpress-v2-functions.php:219 inc/learnpress-v2-functions.php:219
-#: inc/learnpress-v2-functions.php:224 inc/learnpress-v2-functions.php:224
-msgid "All courses"
-msgstr ""
-
-#: inc/learnpress-functions.php:602 inc/learnpress-v1-functions.php:1167
-#: inc/learnpress-v2-functions.php:156
-msgid "All Courses"
-msgstr ""
-
 #: inc/learnpress-functions.php:609 inc/learnpress-v1-functions.php:1174
 #: inc/learnpress-v2-functions.php:163
 #: learnpress/course/loop-curriculum-quiz.php:11
@@ -516,47 +492,17 @@ msgstr ""
 #: inc/learnpress-functions.php:691 inc/learnpress-v1-functions.php:588
 #: inc/learnpress-v2-functions.php:459
 msgid "You May Like"
-msgstr ""
-
-#: inc/learnpress-functions.php:761 inc/learnpress-functions.php:812
-#: inc/learnpress-v1-functions.php:463 inc/learnpress-v1-functions.php:527
-#: inc/learnpress-v2-functions.php:616 inc/learnpress-v2-functions.php:697
-msgid "Duration"
-msgstr "Duración"
-
-#: inc/learnpress-functions.php:764 inc/learnpress-v1-functions.php:530
-#: inc/learnpress-v2-functions.php:619
-msgid "Course duration"
-msgstr "duración de curso"
+msgstr "Te Podría Interesar"
 
 #: inc/learnpress-functions.php:765 inc/learnpress-v1-functions.php:531
 #: inc/learnpress-v2-functions.php:620
 msgid "50 hours"
-msgstr ""
-
-#: inc/learnpress-functions.php:768
-msgid "Skill Level"
-msgstr "Nivel de habilidad"
+msgstr "50 horas"
 
 #: inc/learnpress-functions.php:771 inc/learnpress-v1-functions.php:537
 #: inc/learnpress-v2-functions.php:626
 msgid "A possible level with this course"
 msgstr ""
-
-#: inc/learnpress-functions.php:772 inc/learnpress-v1-functions.php:538
-#: inc/learnpress-v2-functions.php:627
-msgid "All levels"
-msgstr "Todos los niveles"
-
-#: inc/learnpress-functions.php:775 inc/learnpress-functions.php:822
-#: inc/learnpress-v1-functions.php:477 inc/learnpress-v2-functions.php:711
-msgid "Language"
-msgstr "Lenguaje"
-
-#: inc/learnpress-functions.php:778 inc/learnpress-v1-functions.php:544
-#: inc/learnpress-v2-functions.php:633
-msgid "Language's used for studying"
-msgstr "Lenguaje usado por el estudiante"
 
 #: inc/learnpress-functions.php:779 inc/learnpress-v1-functions.php:545
 #: inc/learnpress-v2-functions.php:634
@@ -567,38 +513,6 @@ msgstr ""
 #: inc/learnpress-v2-functions.php:682
 msgid "Course Features"
 msgstr ""
-
-#: inc/learnpress-functions.php:802 inc/learnpress-v1-functions.php:452
-#: inc/learnpress-v2-functions.php:686
-msgid "Lectures"
-msgstr "Lecturas"
-
-#: inc/learnpress-functions.php:807 inc/learnpress-v1-functions.php:457
-#: inc/learnpress-v2-functions.php:691
-msgid "Quizzes"
-msgstr "Pruebas"
-
-#: inc/learnpress-functions.php:817 inc/learnpress-v1-functions.php:470
-#: inc/learnpress-v2-functions.php:704
-msgid "Skill level"
-msgstr "Nivel de Habilidad"
-
-#: inc/learnpress-functions.php:827 inc/learnpress-v1-functions.php:483
-#: inc/learnpress-v1-functions.php:626 inc/learnpress-v2-functions.php:497
-#: inc/learnpress-v2-functions.php:717 learnpress/course/students.php:10
-#: learnpress-v1/single-course/students.php:18
-#: learnpress-v2/single-course/students.php:22
-#: learnpress-v1/addons/wishlist/wishlist-content.php:42
-#: learnpress-v2/addons/wishlist/wishlist-content.php:42
-#: learnpress-v1/profile/tabs/courses/loop.php:48
-#: learnpress-v2/profile/tabs/courses/index.php:54
-msgid "Students"
-msgstr "Estudiantes"
-
-#: inc/learnpress-functions.php:833 inc/learnpress-v1-functions.php:490
-#: inc/learnpress-v2-functions.php:724
-msgid "Assessments"
-msgstr "Evaluaciones"
 
 #: inc/learnpress-functions.php:834 inc/learnpress-functions.php:1133
 #: inc/learnpress-v1-functions.php:491 inc/learnpress-v1-functions.php:511
@@ -621,12 +535,6 @@ msgstr "Evaluaciones"
 #: inc/widgets/one-course-instructors/one-course-instructors.php:27
 #: inc/widgets/our-team/our-team.php:57
 msgid "Yes"
-msgstr ""
-
-#: inc/learnpress-functions.php:834 inc/learnpress-v1-functions.php:491
-#: inc/learnpress-v2-functions.php:725 vc-shortcodes/inc-map/icon-box.php:209
-#: inc/widgets/icon-box/icon-box.php:191
-msgid "Self"
 msgstr ""
 
 #: inc/learnpress-functions.php:857 inc/learnpress-v1-functions.php:828
@@ -667,11 +575,6 @@ msgstr ""
 msgid "You have completed this lesson."
 msgstr ""
 
-#: inc/learnpress-functions.php:971 learnpress-v1/lesson/complete-button.php:59
-#: learnpress-v2/single-course/content-item-lp_lesson.php:33
-msgid "Complete Lesson"
-msgstr "Lección Completa"
-
 #: inc/learnpress-functions.php:1132 inc/learnpress-v1-functions.php:510
 #: inc/learnpress-v2-functions.php:745
 msgid "Certificate"
@@ -703,14 +606,6 @@ msgstr ""
 #: inc/widgets/single-images/single-images.php:57
 msgid "No"
 msgstr ""
-
-#: inc/learnpress-v1-functions.php:534 inc/learnpress-v2-functions.php:623
-msgid "Skill Levels"
-msgstr "Niveles de habilidad"
-
-#: inc/learnpress-v1-functions.php:541 inc/learnpress-v2-functions.php:630
-msgid "Languages"
-msgstr "Lenguajes"
 
 #: inc/learnpress-v1-functions.php:638 inc/learnpress-v1-functions.php:639
 #: inc/learnpress-v2-functions.php:515 tp-event-auth/form-book-event.php:40
@@ -745,7 +640,7 @@ msgstr "Lenguajes"
 #: learnpress-v2/profile/tabs/courses/index.php:66
 #: learnpress-v2/profile/tabs/courses/index.php:67
 msgid "Free"
-msgstr ""
+msgstr "Gratis"
 
 #: inc/learnpress-v1-functions.php:834 inc/learnpress-v2-functions.php:988
 msgid "Orders"
@@ -791,7 +686,7 @@ msgstr ""
 
 #: inc/related.php:7
 msgid "You may also like"
-msgstr ""
+msgstr "Tal vez  te podría interesar"
 
 #: inc/tax-meta.php:15
 msgid "Category Meta Box"
@@ -1067,46 +962,6 @@ msgstr ""
 msgid "There are no available courses!"
 msgstr ""
 
-#: learnpress/course_content-landing_page.php:19
-#: learnpress/course_content-landing_page.php:79
-#: learnpress/course_content-learning_page.php:18
-#: learnpress-v1/single-course/content-landing.php:28
-#: learnpress-v1/single-course/content-landing.php:83
-#: learnpress-v1/single-course/content-learning.php:26
-#: learnpress-v2/single-course/content-landing.php:32
-#: learnpress-v2/single-course/content-landing.php:100
-#: learnpress-v2/single-course/content-learning.php:29
-#: vc-shortcodes/inc-map/courses-searching.php:39
-#: vc-shortcodes/inc-map/icon-box.php:132 vc-shortcodes/inc-map/video.php:105
-#: inc/widgets/courses-searching/courses-searching.php:49
-#: inc/widgets/icon-box/icon-box.php:129 inc/widgets/video/video.php:97
-msgid "Description"
-msgstr "Descripción"
-
-#: learnpress/course_content-landing_page.php:25
-#: learnpress/course_content-landing_page.php:82
-#: learnpress/course_content-learning_page.php:24
-#: learnpress-v1/single-course/content-landing.php:34
-#: learnpress-v1/single-course/content-landing.php:86
-#: learnpress-v1/single-course/content-learning.php:32
-#: learnpress-v2/single-course/content-landing.php:38
-#: learnpress-v2/single-course/content-landing.php:103
-#: learnpress-v2/single-course/content-learning.php:35
-msgid "Curriculum"
-msgstr "Curricula"
-
-#: learnpress/course_content-landing_page.php:31
-#: learnpress/course_content-landing_page.php:85
-#: learnpress/course_content-learning_page.php:30
-#: learnpress-v1/single-course/content-landing.php:40
-#: learnpress-v1/single-course/content-landing.php:89
-#: learnpress-v1/single-course/content-learning.php:38
-#: learnpress-v2/single-course/content-landing.php:44
-#: learnpress-v2/single-course/content-landing.php:106
-#: learnpress-v2/single-course/content-learning.php:41
-msgid "Instructors"
-msgstr "Instructores"
-
 #: learnpress/course_content.php:31
 msgid "Enrolled"
 msgstr ""
@@ -1150,20 +1005,6 @@ msgstr ""
 
 #. Name of the template
 msgid "Landing Page"
-msgstr ""
-
-#: portfolio/archive-portfolio.php:110 vc-shortcodes/vc-functions.php:86
-#: vc-shortcodes/vc-functions.php:234 woocommerce/archive-product.php:58
-#: inc/widgets/carousel-post/carousel-post.php:160
-#: inc/widgets/courses/courses.php:13
-#: inc/widgets/gallery-posts/gallery-posts.php:75
-#: inc/widgets/list-post/list-post.php:217
-#: inc/widgets/our-team/our-team.php:118 inc/widgets/portfolio/portfolio.php:15
-#: inc/widgets/portfolio/portfolio.php:36
-#: inc/widgets/course-filters/tpl/base.php:28
-#: inc/widgets/gallery-posts/tpl/base.php:76
-#: inc/widgets/portfolio/tpl/base.php:155
-msgid "All"
 msgstr ""
 
 #: portfolio/archive-portfolio.php:168 inc/widgets/portfolio/tpl/base.php:323
@@ -1274,10 +1115,6 @@ msgstr ""
 msgid "Sometimes, a picture is worth a thousand words."
 msgstr ""
 
-#: vc-shortcodes/vc-functions.php:216 vc-shortcodes/inc-map/courses.php:57
-msgid "all"
-msgstr ""
-
 #: woocommerce/content-single-product-lightbox.php:75
 msgid "View Detail"
 msgstr ""
@@ -1327,11 +1164,6 @@ msgstr ""
 
 #: buddypress/activity/index.php:32
 msgid "The public activity for everyone on this site."
-msgstr ""
-
-#: buddypress/activity/index.php:32 buddypress/members/index.php:30
-#, php-format
-msgid "All Members %s"
 msgstr ""
 
 #: buddypress/activity/index.php:49
@@ -1479,10 +1311,6 @@ msgstr ""
 msgid "Demo Kindergarten"
 msgstr ""
 
-#: inc/data/demos.php:229 inc/data/demos.php:576
-msgid "Demo Languages School"
-msgstr "Demo Lenguajes Escuela"
-
 #: inc/data/demos.php:254 inc/data/demos.php:601
 msgid "Demo Boxed"
 msgstr ""
@@ -1546,17 +1374,11 @@ msgid ""
 "but your result is only %.2f%%"
 msgstr ""
 
-#: learnpress/course/curriculum.php:27
-#: learnpress-v1/single-course/curriculum.php:44
-#: learnpress-v2/single-course/tabs/curriculum.php:34
-msgid "Curriculum is empty"
-msgstr "Curricula vacía"
-
 #: learnpress/course/enroll-button.php:15
 #: learnpress/course/enroll-button.php:15
 #: learnpress-v2/single-course/buttons.php:25
 msgid "Take this course"
-msgstr ""
+msgstr "Tomar este curso"
 
 #: learnpress/course/enroll-button.php:15
 #: learnpress-v1/global/become-teacher-form.php:57
@@ -1572,25 +1394,11 @@ msgstr ""
 msgid "Teacher"
 msgstr ""
 
-#: learnpress/course/loop-curriculum-lesson.php:11
-#: learnpress-v1/single-course/section/item-lesson.php:25
-#: learnpress-v2/single-course/section/item-lesson.php:37
-msgid "Lecture"
-msgstr "Lectura"
-
 #: learnpress/course/loop-curriculum-lesson.php:22
 #: learnpress-v1/single-course/section/item-lesson.php:34
 #: learnpress-v2/single-course/section/item-lesson.php:54
 msgid "Preview"
 msgstr ""
-
-#: learnpress/course/loop-curriculum-lesson.php:27
-#: learnpress/course/loop-curriculum-quiz.php:20
-#: learnpress-v1/lesson/complete-button.php:43
-#: learnpress-v2/single-course/content-item-lp_lesson.php:23
-#: learnpress-v1/single-course/section/item-lesson.php:39
-msgid "Completed"
-msgstr "Completado"
 
 #: learnpress/course/loop-curriculum-lesson.php:33
 #: learnpress/course/loop-curriculum-quiz.php:25
@@ -1654,7 +1462,7 @@ msgstr ""
 #: learnpress/profile/user-courses.php:15
 #: learnpress/profile/user-quizzes.php:27
 msgid "You have not taken any courses yet!"
-msgstr ""
+msgstr "No has tomado ningún curso aún!"
 
 #: learnpress/profile/user-courses.php:22
 msgid "Finished courses"
@@ -1672,43 +1480,19 @@ msgstr ""
 msgid "You don't have got any published courses yet!"
 msgstr ""
 
-#: learnpress/profile/user-quizzes.php:22
-msgid "You have not finished any quizzes yet!"
-msgstr "No has finalizado ninguna prueba aún"
-
 #: learnpress/quiz/nav.php:12 learnpress-v1/single-quiz/nav.php:37
 msgid "Back"
 msgstr ""
-
-#: learnpress/quiz/nav.php:13 learnpress-v1/lesson/next-button.php:15
-#: learnpress-v1/single-quiz/nav.php:41
-#: learnpress-v2/content-lesson/next-button.php:15
-#: learnpress-v2/content-quiz/buttons.php:32 woocommerce/loop/pagination.php:37
-msgid "Next"
-msgstr "siguiente"
-
-#: learnpress/quiz/no-preview-message.php:1
-msgid "Sorry! You have not permission to view this quiz!"
-msgstr "Lo sentimos!! no tienes permiso para ver esta prueba"
-
-#: learnpress/quiz/no-question.php:2
-msgid "No question in this quiz!"
-msgstr "No hay preguntas en esta prueba"
 
 #: learnpress/quiz/result.php:9 learnpress-v1/single-course/progress.php:24
 #: learnpress-v1/single-quiz/result.php:27
 #: learnpress-v2/single-course/progress.php:27
 msgid "Your result"
-msgstr ""
+msgstr "Tu resultado"
 
 #: learnpress/quiz/result.php:48
 msgid "Review your answers"
-msgstr ""
-
-#: learnpress/quiz/time-counter.php:17 learnpress-v1/single-quiz/timer.php:24
-#: learnpress-v2/content-quiz/countdown-simple.php:35
-msgid "Questions"
-msgstr "Preguntas"
+msgstr "Comentarios de tus preguntas"
 
 #: learnpress/quiz/time-counter.php:22 learnpress-v1/single-quiz/history.php:40
 #: learnpress-v1/single-quiz/result.php:47
@@ -1844,7 +1628,7 @@ msgstr ""
 #: learnpress-v1/lesson/description.php:31
 #: learnpress-v2/content-lesson/description.php:25
 msgid "This lesson has not got the content"
-msgstr ""
+msgstr "esta lección no tiene contenido"
 
 #: learnpress-v1/lesson/prev-button.php:15
 #: learnpress-v2/content-lesson/prev-button.php:15
@@ -1904,7 +1688,7 @@ msgstr ""
 
 #: learnpress-v1/order/order-details.php:37
 msgid "Free!"
-msgstr ""
+msgstr "Gratis!"
 
 #: learnpress-v1/profile/info.php:47
 msgid "Edit Profile"
@@ -1916,7 +1700,7 @@ msgstr ""
 
 #: learnpress-v1/single-course/enroll-button.php:26
 msgid "Take This Course"
-msgstr ""
+msgstr "tomar Este Curso"
 
 #: learnpress-v1/single-course/enroll-button.php:27
 msgid "Enroll"
@@ -1941,16 +1725,6 @@ msgstr ""
 #: learnpress-v2/content-quiz/buttons.php:39
 msgid "Check answer"
 msgstr ""
-
-#: learnpress-v1/single-quiz/buttons.php:24
-#: learnpress-v2/content-quiz/buttons.php:63
-msgid "Start Quiz"
-msgstr "Iniciar prueba"
-
-#: learnpress-v1/single-quiz/buttons.php:27
-#: learnpress-v2/content-quiz/buttons.php:74
-msgid "Finish Quiz"
-msgstr "Finalizar prueba"
 
 #: learnpress-v1/single-quiz/buttons.php:30
 #: learnpress-v2/content-quiz/buttons.php:53
@@ -1989,12 +1763,7 @@ msgstr ""
 
 #: learnpress-v1/single-quiz/questions.php:20
 msgid "Review Your Answer"
-msgstr ""
-
-#: learnpress-v1/single-quiz/questions.php:20
-#: learnpress-v2/content-quiz/questions.php:20
-msgid "List of questions"
-msgstr "Lista de preguntas"
+msgstr "Respuesta de tu pregunta"
 
 #: learnpress-v1/single-quiz/questions.php:59
 #: learnpress-v2/content-quiz/questions.php:58
@@ -2124,10 +1893,6 @@ msgstr ""
 msgid "You can't start quiz because you have finished this course."
 msgstr ""
 
-#: learnpress-v2/single-course/content-item-lp_quiz.php:67
-msgid "No questions"
-msgstr "No hay preguntas"
-
 #: learnpress-v2/single-course/content-item-only.php:9
 #: learnpress-v2/single-course/progress.php:34
 #, php-format
@@ -2143,14 +1908,6 @@ msgstr ""
 msgid "Student List"
 msgstr ""
 
-#: learnpress-v2/single-course/curriculum.php:65
-msgid "Curriculum is empty."
-msgstr "Currícula vacía"
-
-#: learnpress-v2/single-course/students-list.php:16
-msgid "Students Enrolled"
-msgstr "Estudiantes Inscritos"
-
 #: learnpress-v2/single-course/students-list.php:33
 msgid "Filter"
 msgstr ""
@@ -2158,13 +1915,6 @@ msgstr ""
 #: learnpress-v2/single-course/students-list.php:73
 msgid "Learning"
 msgstr ""
-
-#: learnpress-v2/single-course/students-list.php:85
-#, php-format
-msgid "and one student enrolled."
-msgid_plural "and %s students enrolled."
-msgstr[0] "y un estudiante inscrito"
-msgstr[1] "y %s estudiantes inscritos"
 
 #: learnpress-v2/single-course/students-list.php:91
 #, php-format
@@ -2182,14 +1932,6 @@ msgid ""
 "Almost done. Review the membership information and pricing below then "
 "<strong>click the \"Complete Payment\" button</strong> to finish your order."
 msgstr ""
-
-#: paid-memberships-pro/pages/checkout.php:38
-msgid "Membership Level"
-msgstr "Nivel del Miembro"
-
-#: paid-memberships-pro/pages/checkout.php:40
-msgid "Change level"
-msgstr "Cambiar de nivel"
 
 #: paid-memberships-pro/pages/checkout.php:52
 msgid "Membership level:"
@@ -2234,10 +1976,6 @@ msgstr ""
 #: paid-memberships-pro/pages/checkout.php:601
 msgid "Discount Code"
 msgstr ""
-
-#: paid-memberships-pro/pages/checkout.php:91
-msgid "Description:"
-msgstr "Descripión:"
 
 #: paid-memberships-pro/pages/checkout.php:102
 #: paid-memberships-pro/pages/checkout.php:603
@@ -2382,10 +2120,6 @@ msgstr ""
 msgid "I agree to the %s"
 msgstr ""
 
-#: paid-memberships-pro/pages/checkout.php:694
-msgid "Complete Payment"
-msgstr "Pago Completado"
-
 #: paid-memberships-pro/pages/checkout.php:706
 msgid "Submit and Check Out"
 msgstr ""
@@ -2420,15 +2154,6 @@ msgstr ""
 msgid "Renew"
 msgstr ""
 
-#: paid-memberships-pro/pages/levels.php:97
-#: learnpress-v1/addons/paid-membership-pro/courses.php:99
-#: learnpress-v2/addons/paid-membership-pro/courses-mobile.php:123
-#: learnpress-v2/addons/paid-membership-pro/courses.php:135
-#: learnpress-v2/addons/paid-membership-pro/pages/levels-mobile.php:106
-#: learnpress-v2/addons/paid-membership-pro/pages/levels.php:118
-msgid "Your Level"
-msgstr "Tu nivel"
-
 #: paid-memberships-pro/pages/levels.php:116
 msgid "&larr; Return to Your Account"
 msgstr ""
@@ -2446,18 +2171,9 @@ msgstr ""
 msgid "Link project"
 msgstr ""
 
-#: portfolio/type/left-floating-sidebar.php:11
-msgid "PROJECT DESCRIPTION"
-msgstr "DESCRIPCIÓN DEL PROYECTP"
-
 #: portfolio/type/left-floating-sidebar.php:35
 msgid "Project URL"
 msgstr ""
-
-#: portfolio/type/right-floating-sidebar.php:43
-#: portfolio/type/sidebar-slider.php:33
-msgid "Project description"
-msgstr "descripción del proyecto"
 
 #: tp-event/shortcodes/form-login.php:8 tp-event-auth/auths/login.php:13
 #: inc/widgets/login-form/tpl/base.php:176
@@ -3172,7 +2888,7 @@ msgstr ""
 #: inc/widgets/countdown-box/countdown-box.php:26
 #: vc-shortcodes/shortcodes/countdown-box/countdown-box.php:19
 msgid "hours"
-msgstr ""
+msgstr "horas"
 
 #: vc-shortcodes/inc-map/countdown-box.php:32
 #: inc/widgets/countdown-box/countdown-box.php:30
@@ -4168,10 +3884,6 @@ msgid ""
 "informational and useful."
 msgstr ""
 
-#: vc-shortcodes/inc-map/icon-box.php:140
-msgid "Description size"
-msgstr "tamaño de descripción"
-
 #: vc-shortcodes/inc-map/icon-box.php:142
 msgid "Custom description font size. Unit is pixel"
 msgstr ""
@@ -4430,22 +4142,12 @@ msgstr ""
 msgid "Link of title"
 msgstr ""
 
-#: vc-shortcodes/inc-map/link.php:33 inc/widgets/icon-box/icon-box.php:134
-#: inc/widgets/link/link.php:30
-msgid "Add description"
-msgstr "Agregar descripción"
-
 #: vc-shortcodes/inc-map/list-events.php:5
 msgid "Thim: List Events"
 msgstr ""
 
 #: vc-shortcodes/inc-map/list-events.php:8
 msgid "Display List Events."
-msgstr ""
-
-#: vc-shortcodes/inc-map/list-events.php:45
-#: inc/widgets/list-event/list-event.php:41
-msgid "View All"
 msgstr ""
 
 #: vc-shortcodes/inc-map/list-post.php:5 inc/widgets/list-post/list-post.php:21
@@ -4543,11 +4245,6 @@ msgstr ""
 #: vc-shortcodes/inc-map/one-course-instructors.php:7
 msgid "Display course instructors."
 msgstr ""
-
-#: vc-shortcodes/inc-map/one-course-instructors.php:14
-#: inc/widgets/one-course-instructors/one-course-instructors.php:18
-msgid "Visible instructors"
-msgstr "Instructor Visible"
 
 #: vc-shortcodes/inc-map/our-team.php:4 inc/widgets/our-team/our-team.php:9
 msgid "Thim: Our Team"
@@ -7814,10 +7511,6 @@ msgstr ""
 msgid "No courses in your wishlist!"
 msgstr ""
 
-#: learnpress/profile/user-courses/own-course.php:22
-msgid " students passed"
-msgstr "estudiantes aprobados"
-
 #: learnpress/profile/user-courses/own-course.php:24
 msgid " student passed"
 msgstr ""
@@ -8294,6 +7987,313 @@ msgstr ""
 #. Author URI of the theme
 msgid "https://thimpress.com"
 msgstr ""
+
+#: content-single.php:74
+msgid "Next post"
+msgstr "siguiente entrada"
+
+#: inc/learnpress-functions.php:560 inc/learnpress-functions.php:560
+#: inc/learnpress-functions.php:573 inc/learnpress-functions.php:573
+#: inc/learnpress-functions.php:579 inc/learnpress-functions.php:579
+#: inc/learnpress-functions.php:584 inc/learnpress-functions.php:584
+#: inc/learnpress-v1-functions.php:1211 inc/learnpress-v1-functions.php:1211
+#: inc/learnpress-v1-functions.php:1224 inc/learnpress-v1-functions.php:1224
+#: inc/learnpress-v1-functions.php:1230 inc/learnpress-v1-functions.php:1230
+#: inc/learnpress-v1-functions.php:1235 inc/learnpress-v1-functions.php:1235
+#: inc/learnpress-v2-functions.php:200 inc/learnpress-v2-functions.php:200
+#: inc/learnpress-v2-functions.php:213 inc/learnpress-v2-functions.php:213
+#: inc/learnpress-v2-functions.php:219 inc/learnpress-v2-functions.php:219
+#: inc/learnpress-v2-functions.php:224 inc/learnpress-v2-functions.php:224
+msgid "All courses"
+msgstr "Todos los curso"
+
+#: inc/learnpress-functions.php:602 inc/learnpress-v1-functions.php:1167
+#: inc/learnpress-v2-functions.php:156
+msgid "All Courses"
+msgstr "Todos los cursos"
+
+#: inc/learnpress-functions.php:761 inc/learnpress-functions.php:812
+#: inc/learnpress-v1-functions.php:463 inc/learnpress-v1-functions.php:527
+#: inc/learnpress-v2-functions.php:616 inc/learnpress-v2-functions.php:697
+msgid "Duration"
+msgstr "Duración"
+
+#: inc/learnpress-functions.php:764 inc/learnpress-v1-functions.php:530
+#: inc/learnpress-v2-functions.php:619
+msgid "Course duration"
+msgstr "duración de curso"
+
+#: inc/learnpress-functions.php:768
+msgid "Skill Level"
+msgstr "Nivel de habilidad"
+
+#: inc/learnpress-functions.php:772 inc/learnpress-v1-functions.php:538
+#: inc/learnpress-v2-functions.php:627
+msgid "All levels"
+msgstr "todos"
+
+#: inc/learnpress-functions.php:775 inc/learnpress-functions.php:822
+#: inc/learnpress-v1-functions.php:477 inc/learnpress-v2-functions.php:711
+msgid "Language"
+msgstr "Lenguaje"
+
+#: inc/learnpress-functions.php:778 inc/learnpress-v1-functions.php:544
+#: inc/learnpress-v2-functions.php:633
+msgid "Language's used for studying"
+msgstr "Lenguaje usado por el estudiante"
+
+#: inc/learnpress-functions.php:802 inc/learnpress-v1-functions.php:452
+#: inc/learnpress-v2-functions.php:686
+msgid "Lectures"
+msgstr "Lecturas"
+
+#: inc/learnpress-functions.php:807 inc/learnpress-v1-functions.php:457
+#: inc/learnpress-v2-functions.php:691
+msgid "Quizzes"
+msgstr "Pruebas"
+
+#: inc/learnpress-functions.php:817 inc/learnpress-v1-functions.php:470
+#: inc/learnpress-v2-functions.php:704
+msgid "Skill level"
+msgstr "Nivel de Habilidad"
+
+#: inc/learnpress-functions.php:827 inc/learnpress-v1-functions.php:483
+#: inc/learnpress-v1-functions.php:626 inc/learnpress-v2-functions.php:497
+#: inc/learnpress-v2-functions.php:717 learnpress/course/students.php:10
+#: learnpress-v1/single-course/students.php:18
+#: learnpress-v2/single-course/students.php:22
+#: learnpress-v1/addons/wishlist/wishlist-content.php:42
+#: learnpress-v2/addons/wishlist/wishlist-content.php:42
+#: learnpress-v1/profile/tabs/courses/loop.php:48
+#: learnpress-v2/profile/tabs/courses/index.php:54
+msgid "Students"
+msgstr "Estudiantes"
+
+#: inc/learnpress-functions.php:833 inc/learnpress-v1-functions.php:490
+#: inc/learnpress-v2-functions.php:724
+msgid "Assessments"
+msgstr "Evaluaciones"
+
+#: inc/learnpress-functions.php:834 inc/learnpress-v1-functions.php:491
+#: inc/learnpress-v2-functions.php:725 vc-shortcodes/inc-map/icon-box.php:209
+#: inc/widgets/icon-box/icon-box.php:191
+msgid "Self"
+msgstr "Libres"
+
+#: inc/learnpress-functions.php:971 learnpress-v1/lesson/complete-button.php:59
+#: learnpress-v2/single-course/content-item-lp_lesson.php:33
+msgid "Complete Lesson"
+msgstr "Lección Completa"
+
+#: inc/learnpress-v1-functions.php:534 inc/learnpress-v2-functions.php:623
+msgid "Skill Levels"
+msgstr "Niveles de habilidad"
+
+#: inc/learnpress-v1-functions.php:541 inc/learnpress-v2-functions.php:630
+msgid "Languages"
+msgstr "Lenguajes"
+
+#: learnpress/course_content-landing_page.php:19
+#: learnpress/course_content-landing_page.php:79
+#: learnpress/course_content-learning_page.php:18
+#: learnpress-v1/single-course/content-landing.php:28
+#: learnpress-v1/single-course/content-landing.php:83
+#: learnpress-v1/single-course/content-learning.php:26
+#: learnpress-v2/single-course/content-landing.php:32
+#: learnpress-v2/single-course/content-landing.php:100
+#: learnpress-v2/single-course/content-learning.php:29
+#: vc-shortcodes/inc-map/courses-searching.php:39
+#: vc-shortcodes/inc-map/icon-box.php:132 vc-shortcodes/inc-map/video.php:105
+#: inc/widgets/courses-searching/courses-searching.php:49
+#: inc/widgets/icon-box/icon-box.php:129 inc/widgets/video/video.php:97
+msgid "Description"
+msgstr "Descripción"
+
+#: learnpress/course_content-landing_page.php:25
+#: learnpress/course_content-landing_page.php:82
+#: learnpress/course_content-learning_page.php:24
+#: learnpress-v1/single-course/content-landing.php:34
+#: learnpress-v1/single-course/content-landing.php:86
+#: learnpress-v1/single-course/content-learning.php:32
+#: learnpress-v2/single-course/content-landing.php:38
+#: learnpress-v2/single-course/content-landing.php:103
+#: learnpress-v2/single-course/content-learning.php:35
+msgid "Curriculum"
+msgstr "Curricula"
+
+#: learnpress/course_content-landing_page.php:31
+#: learnpress/course_content-landing_page.php:85
+#: learnpress/course_content-learning_page.php:30
+#: learnpress-v1/single-course/content-landing.php:40
+#: learnpress-v1/single-course/content-landing.php:89
+#: learnpress-v1/single-course/content-learning.php:38
+#: learnpress-v2/single-course/content-landing.php:44
+#: learnpress-v2/single-course/content-landing.php:106
+#: learnpress-v2/single-course/content-learning.php:41
+msgid "Instructors"
+msgstr "Instructores"
+
+#: portfolio/archive-portfolio.php:110 vc-shortcodes/vc-functions.php:86
+#: vc-shortcodes/vc-functions.php:234 woocommerce/archive-product.php:58
+#: inc/widgets/carousel-post/carousel-post.php:160
+#: inc/widgets/courses/courses.php:13
+#: inc/widgets/gallery-posts/gallery-posts.php:75
+#: inc/widgets/list-post/list-post.php:217
+#: inc/widgets/our-team/our-team.php:118 inc/widgets/portfolio/portfolio.php:15
+#: inc/widgets/portfolio/portfolio.php:36
+#: inc/widgets/course-filters/tpl/base.php:28
+#: inc/widgets/gallery-posts/tpl/base.php:76
+#: inc/widgets/portfolio/tpl/base.php:155
+msgid "All"
+msgstr "Todo"
+
+#: vc-shortcodes/vc-functions.php:216 vc-shortcodes/inc-map/courses.php:57
+msgid "all"
+msgstr "todo"
+
+#: buddypress/activity/index.php:32 buddypress/members/index.php:30
+#, php-format
+msgid "All Members %s"
+msgstr "todos los miembros %s"
+
+#: inc/data/demos.php:229 inc/data/demos.php:576
+msgid "Demo Languages School"
+msgstr "Demo Lenguajes Escuela"
+
+#: learnpress/course/curriculum.php:27
+#: learnpress-v1/single-course/curriculum.php:44
+#: learnpress-v2/single-course/tabs/curriculum.php:34
+msgid "Curriculum is empty"
+msgstr "Curricula vacía"
+
+#: learnpress/course/loop-curriculum-lesson.php:11
+#: learnpress-v1/single-course/section/item-lesson.php:25
+#: learnpress-v2/single-course/section/item-lesson.php:37
+msgid "Lecture"
+msgstr "Lectura"
+
+#: learnpress/course/loop-curriculum-lesson.php:27
+#: learnpress/course/loop-curriculum-quiz.php:20
+#: learnpress-v1/lesson/complete-button.php:43
+#: learnpress-v2/single-course/content-item-lp_lesson.php:23
+#: learnpress-v1/single-course/section/item-lesson.php:39
+msgid "Completed"
+msgstr "Completado"
+
+#: learnpress/profile/user-quizzes.php:22
+msgid "You have not finished any quizzes yet!"
+msgstr "No has finalizado ninguna prueba aún"
+
+#: learnpress/quiz/nav.php:13 learnpress-v1/lesson/next-button.php:15
+#: learnpress-v1/single-quiz/nav.php:41
+#: learnpress-v2/content-lesson/next-button.php:15
+#: learnpress-v2/content-quiz/buttons.php:32 woocommerce/loop/pagination.php:37
+msgid "Next"
+msgstr "siguiente"
+
+#: learnpress/quiz/no-preview-message.php:1
+msgid "Sorry! You have not permission to view this quiz!"
+msgstr "Lo sentimos!! no tienes permiso para ver esta prueba"
+
+#: learnpress/quiz/no-question.php:2
+msgid "No question in this quiz!"
+msgstr "No hay preguntas en esta prueba"
+
+#: learnpress/quiz/time-counter.php:17 learnpress-v1/single-quiz/timer.php:24
+#: learnpress-v2/content-quiz/countdown-simple.php:35
+msgid "Questions"
+msgstr "Preguntas"
+
+#: learnpress-v1/single-quiz/buttons.php:24
+#: learnpress-v2/content-quiz/buttons.php:63
+msgid "Start Quiz"
+msgstr "Iniciar prueba"
+
+#: learnpress-v1/single-quiz/buttons.php:27
+#: learnpress-v2/content-quiz/buttons.php:74
+msgid "Finish Quiz"
+msgstr "Finalizar prueba"
+
+#: learnpress-v1/single-quiz/questions.php:20
+#: learnpress-v2/content-quiz/questions.php:20
+msgid "List of questions"
+msgstr "Lista de preguntas"
+
+#: learnpress-v2/single-course/content-item-lp_quiz.php:67
+msgid "No questions"
+msgstr "No hay preguntas"
+
+#: learnpress-v2/single-course/curriculum.php:65
+msgid "Curriculum is empty."
+msgstr "Currícula vacía"
+
+#: learnpress-v2/single-course/students-list.php:16
+msgid "Students Enrolled"
+msgstr "Estudiantes Inscritos"
+
+#: learnpress-v2/single-course/students-list.php:85
+#, php-format
+msgid "and one student enrolled."
+msgid_plural "and %s students enrolled."
+msgstr[0] "y un estudiante inscrito"
+msgstr[1] "y %s estudiantes inscritos"
+
+#: paid-memberships-pro/pages/checkout.php:38
+msgid "Membership Level"
+msgstr "Nivel del Miembro"
+
+#: paid-memberships-pro/pages/checkout.php:40
+msgid "Change level"
+msgstr "Cambiar de nivel"
+
+#: paid-memberships-pro/pages/checkout.php:91
+msgid "Description:"
+msgstr "Descripión:"
+
+#: paid-memberships-pro/pages/checkout.php:694
+msgid "Complete Payment"
+msgstr "Pago Completado"
+
+#: paid-memberships-pro/pages/levels.php:97
+#: learnpress-v1/addons/paid-membership-pro/courses.php:99
+#: learnpress-v2/addons/paid-membership-pro/courses-mobile.php:123
+#: learnpress-v2/addons/paid-membership-pro/courses.php:135
+#: learnpress-v2/addons/paid-membership-pro/pages/levels-mobile.php:106
+#: learnpress-v2/addons/paid-membership-pro/pages/levels.php:118
+msgid "Your Level"
+msgstr "Tu nivel"
+
+#: portfolio/type/left-floating-sidebar.php:11
+msgid "PROJECT DESCRIPTION"
+msgstr "DESCRIPCIÓN DEL PROYECTP"
+
+#: portfolio/type/right-floating-sidebar.php:43
+#: portfolio/type/sidebar-slider.php:33
+msgid "Project description"
+msgstr "descripción del proyecto"
+
+#: vc-shortcodes/inc-map/icon-box.php:140
+msgid "Description size"
+msgstr "tamaño de descripción"
+
+#: vc-shortcodes/inc-map/link.php:33 inc/widgets/icon-box/icon-box.php:134
+#: inc/widgets/link/link.php:30
+msgid "Add description"
+msgstr "Agregar descripción"
+
+#: vc-shortcodes/inc-map/list-events.php:45
+#: inc/widgets/list-event/list-event.php:41
+msgid "View All"
+msgstr "Ver todos"
+
+#: vc-shortcodes/inc-map/one-course-instructors.php:14
+#: inc/widgets/one-course-instructors/one-course-instructors.php:18
+msgid "Visible instructors"
+msgstr "Instructor Visible"
+
+#: learnpress/profile/user-courses/own-course.php:22
+msgid " students passed"
+msgstr "estudiantes aprobados"
 
 #: archive.php:23 index.php:23 learnpress/archive-course.php:21
 #: learnpress-v1/archive-course.php:32 learnpress-v2/archive-course.php:22

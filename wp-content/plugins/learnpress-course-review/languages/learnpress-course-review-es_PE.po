@@ -1,0 +1,90 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: LearnPress - Course Review\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-03-18 16:57+0700\n"
+"PO-Revision-Date: 2017-05-14 05:39+0000\n"
+"Last-Translator: omarfon <magentadin@gmail.com>\n"
+"Language-Team: Spanish (Peru)\n"
+"Language: es-PE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: learnpress-course-review.php:80
+msgid "Please enter the review title"
+msgstr ""
+
+#: learnpress-course-review.php:81
+msgid "Please enter the review content"
+msgstr ""
+
+#: learnpress-course-review.php:82
+msgid "Please select your rating"
+msgstr ""
+
+#: learnpress-course-review.php:109
+msgid "Error"
+msgstr ""
+
+#: learnpress-course-review.php:114
+msgid "Invalid course"
+msgstr "curso invalido"
+
+#: templates/course-rate.php:13
+#, php-format
+msgid "%d rating"
+msgid_plural "%d ratings"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/course-review.php:12
+msgid "Reviews"
+msgstr "Comentarios"
+
+#: templates/course-review.php:13
+#, php-format
+msgid "Average rate: <span>%.1f</span>"
+msgstr ""
+
+#: templates/course-review.php:21
+msgid "Loading..."
+msgstr "Cargando..."
+
+#: templates/course-review.php:24
+msgid "No review to load"
+msgstr "No hay comentarios para mostrar"
+
+#: templates/course-review.php:27
+msgid "Load More"
+msgstr "Cargar más"
+
+#: templates/review-form.php:12 templates/review-form.php:18
+msgid "Write a review"
+msgstr "Escribir un comentario"
+
+#: templates/review-form.php:24
+msgid "Title"
+msgstr "Titulo"
+
+#: templates/review-form.php:28
+msgid "Content"
+msgstr "Contenido"
+
+#: templates/review-form.php:32
+msgid "Rating"
+msgstr "clasificación"
+
+#: templates/review-form.php:42
+msgid "Add review"
+msgstr "agregar comentario"
+
+#: templates/review-form.php:43
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: templates/review-form.php:44
+msgid "Please wait..."
+msgstr "Por favor esperar..."
