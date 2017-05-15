@@ -82,3 +82,11 @@ footer ul{
 .thim-join-the-elite-group:before{
 	background-color: none!important;
 }
+@media screen and (max-width: 782px){
+html #wpadminbar{
+  position:fixed!important;
+}
+}
+#pg-12-0{
+height: auto!important; 
+}     
